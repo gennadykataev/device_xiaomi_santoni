@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/aosp_santoni.mk
+    $(LOCAL_DIR)/hentai_santoni.mk
 
 COMMON_LUNCH_CHOICES += \
-    aosp_santoni-userdebug \
-    aosp_santoni-user \
-    aosp_santoni-eng
+    hentai_santoni-userdebug \
+    hentai_santoni-user \
+    hentai_santoni-eng
